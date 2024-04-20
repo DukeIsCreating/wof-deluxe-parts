@@ -3,7 +3,7 @@
 
 ## Recommended settings
 
-DW_AddWedgeBase.stl
+[DW_AddWedgeBase.stl](DW_AddWedgeBase.stl)
 - 0.6 diameter.
 - No infill.
 - Recommend printing multiple at once so that tabs have a chance to cool between layers.
